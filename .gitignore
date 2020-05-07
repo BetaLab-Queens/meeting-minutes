@@ -1,0 +1,4 @@
+Data/word_embeddings/glove.6B.50d.txt
+Data/word_embeddings/glove.6B.200d.txt
+*.h5
+*.png
