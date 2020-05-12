@@ -1,4 +1,4 @@
-Data/word_embeddings/glove.6B.50d.txt
-Data/word_embeddings/glove.6B.200d.txt
+Data/word_embeddings
+Supervised_Models/Seq2seq_attention_glove.ipynb
 *.h5
 *.png
