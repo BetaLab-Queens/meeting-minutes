@@ -3,3 +3,4 @@ Supervised_Models/Seq2seq_attention_glove.ipynb
 Data/model_training/1_million_samples_giga.csv
 *.h5
 *.png
+*.json
